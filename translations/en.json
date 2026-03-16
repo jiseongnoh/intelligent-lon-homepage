@@ -1,0 +1,100 @@
+{
+  "brand": { "name": "Intelligent LON" },
+  "meta": { "title": "Intelligent LON — Hotel AI Intelligence", "description": "AI intelligence that reads OTA prices and guest reviews together to support hotel operational decisions" },
+  "nav": { "features": "Features", "different": "Why Us", "overlay": "Adoption", "contact": "Contact", "cta": "Request Demo", "login": "Login" },
+  "hero": {
+    "headline": "Prices and Reviews.\nOne Decision.",
+    "sub": "AI intelligence that reads hotel OTA prices and guest reviews/VOC together, helping operators make faster and more accurate decisions",
+    "badge": "Multi-OTA Price & Review Intelligence",
+    "cta_primary": "Request Demo",
+    "cta_secondary": "Login"
+  },
+  "problem": {
+    "title": "Hotel operators face these challenges every day",
+    "cards": [
+      { "icon": "compare", "title": "Misleading Comparisons", "desc": "Room types, discount terms, and tax inclusions differ — surface-price comparisons lead to wrong conclusions" },
+      { "icon": "delay", "title": "Delayed Response", "desc": "Checking OTAs and reviews separately slows down integrated decision-making" },
+      { "icon": "priority", "title": "No Clear Priorities", "desc": "Data overload without knowing what to act on today" }
+    ]
+  },
+  "solution": {
+    "title": "Solved in one flow",
+    "steps": [
+      { "label": "Collect", "desc": "Auto-collect & normalize OTA prices + reviews" },
+      { "label": "Analyze", "desc": "Cross-analyze price × review, compare competitors" },
+      { "label": "Brief & Act", "desc": "Today's checkpoints + prioritized action items" }
+    ]
+  },
+  "features": {
+    "title": "Core Features",
+    "cards": [
+      { "icon": "price", "title": "OTA Price Intelligence", "desc": "Collect competitor prices and interpret market positioning" },
+      { "icon": "review", "title": "Review/VOC Intelligence", "desc": "Structure guest reviews by sentiment, VOC, strengths and weaknesses" },
+      { "icon": "unified", "title": "Price × Review Diagnosis", "desc": "Read pricing competitiveness and guest experience together" },
+      { "icon": "briefing", "title": "Briefing & Action", "desc": "Short daily briefing with today's action points" }
+    ]
+  },
+  "whyai": {
+    "title": "Why AI?",
+    "points": [
+      "When reviews grow, humans can't read them consistently",
+      "When competitors multiply, manual analysis slows down",
+      "Operators need today's priorities, not lengthy reports"
+    ],
+    "conclusion": "AI isn't decoration — it creates speed and consistency in interpretation."
+  },
+  "different": {
+    "title": "Why Different",
+    "points": [
+      { "title": "Price + Review Together", "desc": "See pricing and reviews in one view" },
+      { "title": "Decision Support", "desc": "Not just dashboards — supports operational judgment" },
+      { "title": "Overlay Adoption", "desc": "Works on top of existing systems" },
+      { "title": "Evidence-Based AI", "desc": "Grounded in verification and cross-checking" }
+    ]
+  },
+  "overlay": {
+    "title": "How to Adopt",
+    "sub": "No system replacement needed",
+    "points": [
+      "Install Chrome Extension and start immediately",
+      "No PMS/CMS replacement required",
+      "Set competitors → collect → analyze in one click"
+    ],
+    "diagram": {
+      "existing": "Existing Operations",
+      "decision": "Operator Decisions"
+    }
+  },
+  "forwho": {
+    "title": "Who It's For",
+    "items": [
+      "Hotels that regularly monitor competitor pricing",
+      "Hotels that want to connect VOC to operations",
+      "Revenue/ops teams wanting pricing and experience together",
+      "Organizations adding intelligence without system overhaul"
+    ]
+  },
+  "trust": {
+    "title": "Built on Reliable Structure",
+    "evidence": [
+      "Multi-OTA price collection architecture",
+      "Integrated price + review diagnosis",
+      "Overlay adoption model",
+      "Evidence-based AI with verification",
+      "Designed for hotel operations workflow"
+    ],
+    "report_title": "Sample Report",
+    "report_label": "Example · Hotel names anonymized",
+    "report_items": [ "Executive Summary", "CompSet Analysis", "Price × Review Diagnosis", "30/60/90 Action Plan" ]
+  },
+  "cta": {
+    "title": "Get Started",
+    "sub": "Request a demo and we'll send a custom analysis sample for your hotel",
+    "form": { "name": "Your Name", "hotel": "Hotel Name", "email": "Email", "phone": "Phone", "submit": "Request Demo" },
+    "login": "Already have an account?",
+    "login_link": "Login",
+    "kakao": "KakaoTalk",
+    "line": "LINE Chat"
+  },
+  "footer": { "copyright": "© 2026 Intelligent LON. All rights reserved.", "contact": "Contact" }
+}

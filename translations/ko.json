@@ -1,0 +1,154 @@
+{
+  "brand": {
+    "name": "Intelligent LON"
+  },
+  "meta": {
+    "title": "Intelligent LON — 호텔 AI 인텔리전스",
+    "description": "호텔의 OTA 가격과 고객 리뷰/VOC를 함께 읽어 운영 의사결정을 돕는 AI 인텔리전스"
+  },
+  "nav": {
+    "features": "기능",
+    "different": "차별점",
+    "overlay": "도입방식",
+    "contact": "문의",
+    "cta": "데모 요청",
+    "login": "로그인"
+  },
+  "hero": {
+    "headline": "가격과 리뷰,\n하나의 판단으로",
+    "sub": "호텔의 OTA 가격과 고객 리뷰/VOC를 함께 읽어, 운영자가 더 빠르고 정확하게 의사결정하도록 돕는 AI 인텔리전스",
+    "badge": "다중 OTA 가격·리뷰 통합 분석",
+    "cta_primary": "데모 요청",
+    "cta_secondary": "로그인"
+  },
+  "problem": {
+    "title": "호텔 운영자는 매일 이런 문제를 겪고 있습니다",
+    "cards": [
+      {
+        "icon": "compare",
+        "title": "비교 왜곡",
+        "desc": "객실 타입, 할인 조건, 세금 포함 여부가 다른데 표면가만 비교하면 판단이 틀어집니다"
+      },
+      {
+        "icon": "delay",
+        "title": "대응 지연",
+        "desc": "여러 OTA와 리뷰를 따로 봐서 통합 판단까지 시간이 걸립니다"
+      },
+      {
+        "icon": "priority",
+        "title": "우선순위 부재",
+        "desc": "데이터는 많지만 오늘 뭘 해야 할지 모릅니다"
+      }
+    ]
+  },
+  "solution": {
+    "title": "하나의 흐름으로 해결합니다",
+    "steps": [
+      { "label": "수집", "desc": "OTA 가격 + 리뷰 자동 수집·정규화" },
+      { "label": "통합 해석", "desc": "가격×리뷰 교차 분석, 경쟁호텔 비교" },
+      { "label": "브리핑/액션", "desc": "오늘 점검할 포인트 + 우선순위 실행 항목" }
+    ]
+  },
+  "features": {
+    "title": "핵심 기능",
+    "cards": [
+      {
+        "icon": "price",
+        "title": "OTA 가격 인텔리전스",
+        "desc": "경쟁호텔 가격을 수집하고, 시장 내 포지션을 해석합니다"
+      },
+      {
+        "icon": "review",
+        "title": "리뷰/VOC 인텔리전스",
+        "desc": "고객 리뷰를 감정·VOC·강점/약점으로 구조화합니다"
+      },
+      {
+        "icon": "unified",
+        "title": "가격×리뷰 통합 진단",
+        "desc": "가격 경쟁력과 고객경험을 함께 읽고 격차를 해석합니다"
+      },
+      {
+        "icon": "briefing",
+        "title": "브리핑/액션 권고",
+        "desc": "오늘 점검할 포인트를 짧은 브리핑으로 제공합니다"
+      }
+    ]
+  },
+  "whyai": {
+    "title": "왜 AI인가",
+    "points": [
+      "리뷰가 많아지면 사람이 일관되게 읽기 어렵습니다",
+      "경쟁 비교가 많아지면 수작업 판단이 느려집니다",
+      "운영자는 긴 리포트보다 오늘의 우선순위가 필요합니다"
+    ],
+    "conclusion": "AI는 장식이 아니라, 해석 속도와 일관성을 만드는 역할입니다."
+  },
+  "different": {
+    "title": "왜 다른가",
+    "points": [
+      { "title": "가격 + 리뷰 통합", "desc": "가격과 리뷰를 함께 봅니다" },
+      { "title": "운영 판단 중심", "desc": "단순 대시보드가 아니라 운영 판단을 돕습니다" },
+      { "title": "오버레이 도입", "desc": "기존 시스템 위에 오버레이로 도입 가능합니다" },
+      { "title": "근거 기반 AI", "desc": "근거/검증 중심의 AI입니다" }
+    ]
+  },
+  "overlay": {
+    "title": "도입 방식",
+    "sub": "기존 시스템을 교체하지 않습니다",
+    "points": [
+      "Chrome Extension 설치 후 즉시 사용",
+      "기존 PMS/CMS 교체 불필요",
+      "경쟁호텔 설정 → 수집 → 분석 원클릭 흐름"
+    ],
+    "diagram": {
+      "existing": "기존 운영 환경",
+      "decision": "운영자 의사결정"
+    }
+  },
+  "forwho": {
+    "title": "이런 호텔에 적합합니다",
+    "items": [
+      "경쟁가를 정기적으로 점검해야 하는 호텔",
+      "리뷰/VOC를 운영 개선에 연결하고 싶은 호텔",
+      "가격과 고객경험을 함께 보고 싶은 Revenue/운영팀",
+      "인텔리전스 레이어를 추가하고 싶은 조직"
+    ]
+  },
+  "trust": {
+    "title": "신뢰할 수 있는 구조",
+    "evidence": [
+      "다중 OTA 가격 수집 구조 보유",
+      "가격 + 리뷰 통합 진단 구조",
+      "오버레이 방식 도입",
+      "근거 기반 AI — 검증·후처리·교차 확인",
+      "현장형 설계 — 호텔 운영 흐름을 고려한 구조"
+    ],
+    "report_title": "Sample Report",
+    "report_label": "예시 화면 · 실제 호텔명은 비식별 처리",
+    "report_items": [
+      "Executive Summary",
+      "CompSet 분석",
+      "가격×리뷰 통합 진단",
+      "30/60/90 액션 플랜"
+    ]
+  },
+  "cta": {
+    "title": "지금 시작하세요",
+    "sub": "아래 정보를 입력하시면 이메일로 데모 요청이 전송됩니다",
+    "form": {
+      "name": "담당자 성함",
+      "hotel": "호텔명",
+      "email": "이메일",
+      "phone": "연락처",
+      "submit": "데모 요청"
+    },
+    "login": "이미 계정이 있으신가요?",
+    "login_link": "로그인",
+    "kakao": "카카오톡 문의",
+    "line": "LINE 문의"
+  },
+  "footer": {
+    "copyright": "© 2026 Intelligent LON. All rights reserved.",
+    "contact": "문의"
+  }
+}
